@@ -2,6 +2,7 @@ package com.letsdoit.letsdoit;
 
 public class ReverseString {
 
+	//This method is use for reversing string 
 	public static String reverse(String st) {
 		StringBuilder out = new StringBuilder();
 
